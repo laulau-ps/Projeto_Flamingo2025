@@ -1,2 +1,2 @@
 # Projeto_Flamingo2025
-Sábado cedo na Flamingo só no BADL
+Projeto ministrado pelo professor Jailson, dia 06/12/25, de refatoração de código front-end.
